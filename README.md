@@ -1,10 +1,10 @@
-# ReduxSimpleStarter
+# ReactBookList
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
+### About
+This is a React application that models a UI with a list of Books, where the user can click an item in the list, and this will display the details of the book.
 
-There are two methods for getting started with this repo.
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
